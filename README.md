@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishika Nigam</h1>
+<h1 align="center">Hi, I'm Rishika Nigam</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 # 💫 About Me:
@@ -14,16 +14,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=rishikanigam2006315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rishikanigam2006315&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikanigam2006315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishikanigam2006315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rishikanigam2006315&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishikanigam2006315&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=rishikanigam2006315&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishikanigam2006315&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=rishikanigam2006315&icon=5&color=12" />
+</p>
 
