@@ -15,6 +15,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rishikanigam2006315&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikanigam2006315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🧠 DSA Stats:
+
+![](https://leetcard.jacoblin.cool/Rishikanigam_2005?theme=dark&font=Baloo&ext=heatmap)<br/>
+
+![](https://leetcode-stats.vercel.app/api?username=Rishikanigam_2005&theme=dark&no_bg=true)<br/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
