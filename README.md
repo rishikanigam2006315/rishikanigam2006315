@@ -14,24 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rishikanigam2006315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rishikanigam2006315&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikanigam2006315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishikanigam2006315&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=rishikanigam2006315&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=rishikanigam2006315&icon=5&color=12" />
-</p>
 
